@@ -22,7 +22,7 @@ ex. Windows 10, Mac, or Linux
 ### Authors
 #### Contributors names and contact info
    Eduardo Rose
-   [@EddieR](https://pages.github.com/)
+   [@Ponjaf](https://pages.github.com/)
 
 
 ## Version History
